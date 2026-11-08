@@ -1,0 +1,4 @@
+product,avg_daily_sales,model_error,baseline_error,improvement_%
+TRADITIONAL BAGUETTE,294.1,58.2,69.8,16.6
+CROISSANT,72.5,19.7,25.3,22.1
+PAIN AU CHOCOLAT,59.9,15.0,20.6,27.1
